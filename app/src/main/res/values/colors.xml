@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="relative_layout_bg">#5C2C8D</color>
+    <color name="nested_scroll_bg">#F3E5F5</color>
+    <color name="card_1_bg">#EDE7F6</color>
+    <color name="card_2_bg">#F1F8E9</color>
+    <color name="card_3_bg">#FFF3E0</color>
+</resources>

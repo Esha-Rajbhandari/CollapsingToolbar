@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuizOn</string>
+    <string name="play">Play</string>
+    <string name="question_1">In what year did Bryan Adams hit the top of the charts with “Everything I Do”?</string>
+    <string name="question_2">In what year did R Kelly have a worldwide hit with “I Believe I Can Fly”?</string>
+    <string name="Question_3">In which year did Michael Jackson hit the top of the charts with “Black or White”?</string>
+</resources>
